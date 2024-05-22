@@ -1,0 +1,7 @@
+huggingface-hub
+ipykernel
+langchain
+llama-index
+openai
+pandas
+label-studio-sdk
